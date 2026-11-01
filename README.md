@@ -2,7 +2,7 @@
 
 *Analista de Ciberseguridad Junior | Estudiante de Ingeniería en Sistemas (UTN)*
 
-Soy un apasionado por la seguridad informática, la protección de datos y la resolución de problemas mediante la lógica. Actualmente estoy en mi último año de secundaria, preparándome para ingresar a la UTN, y complementando mis estudios de forma autodidacta. Recientemente obtuve el *Certificado Profesional en Ciberseguridad de Google*.
+Soy un apasionado por la seguridad informática, la protección de datos y la resolución de problemas mediante la lógica. Actualmente estoy preparándome para ingresar a la UTN, y complementando mis estudios de forma autodidacta. Recientemente obtuve el *Certificado Profesional en Ciberseguridad de Google*.
 
 ### 🛠️ Habilidades Técnicas
 
